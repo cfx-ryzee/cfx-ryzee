@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Kizzyyy's Profile</h1>
+
+<div align="center">
+
+
+
+
+[![Discord](https://i.imgur.com/nYchyup.png)](https://discordapp.com/users/587704671632752642)
+
+<h2>📈 Stats<h2>
+
+<hr style="height:5px; border: 1px solid #ccc; border-radius: 20px;">
+
+![](https://github-readme-stats.vercel.app/api?username=Kizzyyy&show_icons=true)
+
+
+<h2>🧑‍💻 Languages and Tools<h2>
+
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kizzyyy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
