@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Kizzyyy's Profile</h1>
+<h1 align="center">RyZee's Profile</h1>
 
 <div align="center">
 
