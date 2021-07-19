@@ -21,9 +21,6 @@ Here are some ideas to get you started:
 
 
 
-
-[![Discord](https://i.imgur.com/nYchyup.png)](https://discordapp.com/users/587704671632752642)
-
 <h2>📈 Stats<h2>
 
 <hr style="height:5px; border: 1px solid #ccc; border-radius: 20px;">
