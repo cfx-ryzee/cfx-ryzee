@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 
 <hr style="height:5px; border: 1px solid #ccc; border-radius: 20px;">
 
-![](https://github-readme-stats.vercel.app/api?username=Kizzyyy&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=cfx-ryzee&show_icons=true)
 
 
 <h2>🧑‍💻 Languages and Tools<h2>
 
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kizzyyy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=cfx-ryzee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
